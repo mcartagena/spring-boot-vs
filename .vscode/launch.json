@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-BackExampleApplication<back-example>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "mainClass": "com.mcartagena.back.backexample.BackExampleApplication",
+      "projectName": "back-example",
+      "args": ""
+    }
+  ]
+}
